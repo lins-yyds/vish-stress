@@ -1,0 +1,1 @@
+FROM vish/stress
